@@ -1,0 +1,15 @@
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\bin\Debug\net9.0\MiProyecto.Modules.Catalog.deps.json
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\bin\Debug\net9.0\MiProyecto.Modules.Catalog.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\bin\Debug\net9.0\MiProyecto.Modules.Catalog.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\bin\Debug\net9.0\MiProyecto.SharedKernel.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\bin\Debug\net9.0\MiProyecto.SharedKernel.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\MiProyecto.Modules.Catalog.csproj.AssemblyReference.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\MiProyecto.Modules.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\MiProyecto.Modules.Catalog.AssemblyInfoInputs.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\MiProyecto.Modules.Catalog.AssemblyInfo.cs
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\MiProyecto.Modules.Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\MiProyec.C3362D4B.Up2Date
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\MiProyecto.Modules.Catalog.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\refint\MiProyecto.Modules.Catalog.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\MiProyecto.Modules.Catalog.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Catalog\obj\Debug\net9.0\ref\MiProyecto.Modules.Catalog.dll

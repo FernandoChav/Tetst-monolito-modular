@@ -1,0 +1,12 @@
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\bin\Debug\net9.0\MiProyecto.SharedKernel.deps.json
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\bin\Debug\net9.0\MiProyecto.SharedKernel.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\bin\Debug\net9.0\MiProyecto.SharedKernel.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\MiProyecto.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\MiProyecto.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\MiProyecto.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\MiProyecto.SharedKernel.AssemblyInfo.cs
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\MiProyecto.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\MiProyecto.SharedKernel.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\refint\MiProyecto.SharedKernel.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\MiProyecto.SharedKernel.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.SharedKernel\obj\Debug\net9.0\ref\MiProyecto.SharedKernel.dll

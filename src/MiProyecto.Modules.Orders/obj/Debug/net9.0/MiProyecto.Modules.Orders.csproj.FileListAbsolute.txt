@@ -1,0 +1,17 @@
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\bin\Debug\net9.0\MiProyecto.Modules.Orders.deps.json
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\bin\Debug\net9.0\MiProyecto.Modules.Orders.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\bin\Debug\net9.0\MiProyecto.Modules.Orders.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\bin\Debug\net9.0\MiProyecto.Modules.Catalog.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\bin\Debug\net9.0\MiProyecto.SharedKernel.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\bin\Debug\net9.0\MiProyecto.Modules.Catalog.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\bin\Debug\net9.0\MiProyecto.SharedKernel.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\MiProyecto.Modules.Orders.csproj.AssemblyReference.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\MiProyecto.Modules.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\MiProyecto.Modules.Orders.AssemblyInfoInputs.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\MiProyecto.Modules.Orders.AssemblyInfo.cs
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\MiProyecto.Modules.Orders.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\MiProyec.C24D4C58.Up2Date
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\MiProyecto.Modules.Orders.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\refint\MiProyecto.Modules.Orders.dll
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\MiProyecto.Modules.Orders.pdb
+C:\Users\Ferna\Desktop\Software\C#\MiProyectoModular\src\MiProyecto.Modules.Orders\obj\Debug\net9.0\ref\MiProyecto.Modules.Orders.dll
