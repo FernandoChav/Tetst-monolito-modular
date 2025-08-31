@@ -1,6 +1,6 @@
 using MiProyecto.Modules.Catalog;
 using MiProyecto.Modules.Orders;
-using MiProyecto.SharedKernel.Events; // <-- ¡Asegúrate de que este using esté aquí!
+using MiProyecto.SharedKernel.Events; 
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,7 +23,7 @@ builder.Services.AddMediatR(cfg => {
 
 var app = builder.Build();
 
-// Endpoint de prueba (esto no cambia)
+
 app.MapPost("/orders", async (IOrderApi ordersApi) => {
     await ordersApi.CreateNewOrderAsync("user-007", new List<object>());
     return Results.Ok("Pedido creado exitosamente y evento publicado!");

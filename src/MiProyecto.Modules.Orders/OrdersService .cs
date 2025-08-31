@@ -9,12 +9,12 @@ namespace MiProyecto.Modules.Orders
 {
     public class OrdersService(ICatalogApi catalogApi, IPublisher publisher) : IOrderApi
     {
-        // Este campo privado almacenará la dependencia del módulo de Catálogo.
+        
         private readonly ICatalogApi _catalogApi = catalogApi;
         private readonly IPublisher _publisher = publisher;
         public async Task CreateNewOrderAsync(string userId, List<object> items)
         {
-            Console.WriteLine($"🛒 PEDIDOS: Creando nuevo pedido para el usuario {userId}.");
+            Console.WriteLine($" PEDIDOS: Creando nuevo pedido para el usuario {userId}.");
 
             var productInfo = await _catalogApi.GetProductInfoAsync("prod-123");
             var total = productInfo.Price * 2;
@@ -22,8 +22,7 @@ namespace MiProyecto.Modules.Orders
 
             var newOrderId = Guid.NewGuid();
 
-            // --- Aquí ocurre la COMUNICACIÓN POR EVENTOS ---
-            // 5. Creamos y publicamos el evento
+            
             var orderEvent = new OrderCreatedEvent(newOrderId, userId, total);
             await _publisher.Publish(orderEvent);
             Console.WriteLine("--> PEDIDOS: Evento 'OrderCreatedEvent' publicado en el bus.");

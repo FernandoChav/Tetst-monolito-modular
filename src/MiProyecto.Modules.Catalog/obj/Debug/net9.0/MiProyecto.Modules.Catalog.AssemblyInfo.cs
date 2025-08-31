@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiProyecto.Modules.Catalog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e3f3bd578f36e7c418a334850890e8965065f57")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiProyecto.Modules.Catalog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiProyecto.Modules.Catalog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
